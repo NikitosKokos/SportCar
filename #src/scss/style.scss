@@ -33,4 +33,9 @@ body.lock{
   overflow: hidden;
 }
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+
 @import "./base/media";
